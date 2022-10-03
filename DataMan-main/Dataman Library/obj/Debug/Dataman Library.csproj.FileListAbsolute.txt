@@ -1,0 +1,12 @@
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman Library\bin\Debug\Dataman Library.dll
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman Library\bin\Debug\Dataman Library.pdb
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman Library\obj\Debug\Dataman Library.csproj.AssemblyReference.cache
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman Library\obj\Debug\Dataman Library.csproj.CoreCompileInputs.cache
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman Library\obj\Debug\Dataman Library.dll
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman Library\obj\Debug\Dataman Library.pdb
+C:\Users\kirchk0446\Downloads\DataMan-main\DataMan-main\Dataman Library\bin\Debug\Dataman Library.dll
+C:\Users\kirchk0446\Downloads\DataMan-main\DataMan-main\Dataman Library\bin\Debug\Dataman Library.pdb
+C:\Users\kirchk0446\Downloads\DataMan-main\DataMan-main\Dataman Library\obj\Debug\Dataman Library.csproj.AssemblyReference.cache
+C:\Users\kirchk0446\Downloads\DataMan-main\DataMan-main\Dataman Library\obj\Debug\Dataman Library.csproj.CoreCompileInputs.cache
+C:\Users\kirchk0446\Downloads\DataMan-main\DataMan-main\Dataman Library\obj\Debug\Dataman Library.dll
+C:\Users\kirchk0446\Downloads\DataMan-main\DataMan-main\Dataman Library\obj\Debug\Dataman Library.pdb
