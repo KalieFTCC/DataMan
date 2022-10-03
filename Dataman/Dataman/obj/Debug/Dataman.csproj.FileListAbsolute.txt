@@ -1,0 +1,14 @@
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\bin\Debug\Dataman.exe.config
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\bin\Debug\Dataman.exe
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\bin\Debug\Dataman.pdb
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\bin\Debug\Dataman Library.dll
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\bin\Debug\Dataman Library.pdb
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\obj\Debug\Dataman.csproj.AssemblyReference.cache
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\obj\Debug\Dataman.csproj.SuggestedBindingRedirects.cache
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\obj\Debug\Dataman.AnswerMan.resources
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\obj\Debug\Dataman.Properties.Resources.resources
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\obj\Debug\Dataman.csproj.GenerateResource.cache
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\obj\Debug\Dataman.csproj.CoreCompileInputs.cache
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\obj\Debug\Dataman.csproj.CopyComplete
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\obj\Debug\Dataman.exe
+D:\Kalie's Data\Desktop\C# projects\Dataman\Dataman\obj\Debug\Dataman.pdb
